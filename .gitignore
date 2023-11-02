@@ -1,0 +1,8 @@
+/node_modules/*
+./node_modules
+./node_modules/*/*
+./node_modules/*/*/*
+*.log
+./package-lock.json
+./package.json
+node_modules/
